@@ -66,4 +66,4 @@ Command to reproduce the experiments mentioned in the paper for Twins dataset:
 
 Licensed under the [MIT License](LICENSE)
 
-Copyright (c) 2021 DISL
+Copyright (c) 2021 [DISL](https://epidemiology.phhp.ufl.edu/research/disl)
