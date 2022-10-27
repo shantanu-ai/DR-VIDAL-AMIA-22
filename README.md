@@ -8,6 +8,11 @@ causal AI, biomedical informatics, generative adversarial networks, variational 
 ## Supplementary Material for the paper
 The supplementary material with proofs and additional results will be found at: [here](https://github.com/Shantanu48114860/DR-VIDAL/blob/main/DR_VIDAL_AMIA-Supp.pdf).
 
+## Presentation slides
+The supplementary material with proofs and additional results will be found at: 
+1. [PPT](https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/AMIA2022-powerpoint.pptx)
+2. [PDF](https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/AMIA2022-powerpoint.pdf)
+
 ## Packages
 All the packages are inluded in **environment.yml** file
 
