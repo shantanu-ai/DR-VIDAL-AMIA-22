@@ -16,6 +16,9 @@ The presentation slides will be found at:
 ## Packages
 All the packages are inluded in **environment.yml** file
 
+## Overview
+<img src="https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/DR_VIDAL.pdf">
+
 ## Requirements and versions
 - pytorch - 1.3.1
 - numpy - 1.17.2 
@@ -67,6 +70,11 @@ Command to reproduce the experiments mentioned in the paper for Twins dataset:
  - Twins: 
  Twins/Constants.py
  
+## Results
+<img src="https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/Results_1.pdf">
+
+<img src="https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/Results_2.pdf">
+
 ## License & copyright
 
 Licensed under the [MIT License](LICENSE)
