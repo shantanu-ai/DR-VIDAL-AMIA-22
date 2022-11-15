@@ -13,6 +13,9 @@ The presentation slides will be found at:
 1. [PPT](https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/AMIA2022-powerpoint.pptx)
 2. [PDF](https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/AMIA2022-powerpoint.pdf)
 
+## Presentation video
+Click this [link](https://www.youtube.com/watch?v=BB5fLYxBFV4).
+
 ## Packages
 All the packages are inluded in **environment.yml** file
 
