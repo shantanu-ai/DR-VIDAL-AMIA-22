@@ -1,15 +1,5 @@
 ## Official implementation of DR-VIDAL - Doubly Robust Variational Information(Theoretic) Adversarial Learning for the Estimation of Treatment Effects and Counterfactuals (*AMIA, Symoissium, 2022*)
-## Cite:
-```
-@article{ghosh2023dr,
-  title={DR-VIDAL--Doubly Robust Variational Information-theoretic Deep Adversarial Learning for Counterfactual Prediction and Treatment Effect Estimation on Real World Data},
-  author={Ghosh, Shantanu and Feng, Zheng and Bian, Jiang and Butler, Kevin and Prosperi, Mattia},
-  journal={arXiv preprint arXiv:2303.04201},
-  year={2023}
-}
-```
-
-## Keywords:
+## Keywords
 causal AI, biomedical informatics, generative adversarial networks, variational inference, information theory, doubly robust
 
 ## Supplementary Material for the paper
@@ -84,6 +74,16 @@ Command to reproduce the experiments mentioned in the paper for Twins dataset:
 <img src="https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/Results_1.png"/>
 
 <img src="https://github.com/Shantanu48114860/DR-VIDAL-AMIA-22/blob/main/Results_2.png"/>
+
+## Cite
+```
+@article{ghosh2023dr,
+  title={DR-VIDAL--Doubly Robust Variational Information-theoretic Deep Adversarial Learning for Counterfactual Prediction and Treatment Effect Estimation on Real World Data},
+  author={Ghosh, Shantanu and Feng, Zheng and Bian, Jiang and Butler, Kevin and Prosperi, Mattia},
+  journal={arXiv preprint arXiv:2303.04201},
+  year={2023}
+}
+```
 
 ## License & copyright
 
