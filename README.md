@@ -1,4 +1,4 @@
-# DR-VIDAL - Doubly Robust Variational Information(Theoretic) Adversarial Learning for the Estimation of Treatment Effects and Counterfactuals
+## Official implementation of `DR-VIDAL - Doubly Robust Variational Information(Theoretic) Adversarial Learning for the Estimation of Treatment Effects and Counterfactuals (*AMIA, Symoissium, 2022*)`
 ## Cite:
 ```
 @article{ghosh2023dr,
