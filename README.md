@@ -78,11 +78,14 @@ Command to reproduce the experiments mentioned in the paper for Twins dataset:
 
 ## Cite
 ```
-@article{ghosh2023dr,
-  title={DR-VIDAL--Doubly Robust Variational Information-theoretic Deep Adversarial Learning for Counterfactual Prediction and Treatment Effect Estimation on Real World Data},
-  author={Ghosh, Shantanu and Feng, Zheng and Bian, Jiang and Butler, Kevin and Prosperi, Mattia},
-  journal={arXiv preprint arXiv:2303.04201},
-  year={2023}
+@inproceedings{ghosh2021dr,
+  title={DR-VIDAL - Doubly Robust Variational Information-theoretic Deep Adversarial Learning for Counterfactual Prediction and Treatment Effect Estimation on Real World Data},
+  author={GHOSH, S and Feng, Z and Bian, J and Butler, K and Prosperi, M},
+  booktitle={AMIA Annual Symposium Proceedings},
+  volume={2022},
+  pages={485--494},
+  year={2022},
+  organization={American Medical Informatics Association}
 }
 ```
 
