@@ -78,23 +78,14 @@ Command to reproduce the experiments mentioned in the paper for Twins dataset:
 
 ## Cite
 ```
-@inproceedings{DBLP:conf/amia/GhoshF0BP22,
-  author       = {Shantanu Ghosh and
-                  Zheng Feng and
-                  Jiang Bian and
-                  Kevin Butler and
-                  Mattia C. F. Prosperi},
-  title        = {{DR-VIDAL} - Doubly Robust Variational Information-theoretic Deep
-                  Adversarial Learning for Counterfactual Prediction and Treatment Effect
-                  Estimation},
-  booktitle    = {{AMIA} 2022, American Medical Informatics Association Annual Symposium,
-                  Washington, DC, USA, November 5-9, 2022},
-  publisher    = {{AMIA}},
-  year         = {2022},
-  url          = {https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/334-1.4642402/15-1.4642399},
-  timestamp    = {Wed, 08 Feb 2023 15:42:36 +0100},
-  biburl       = {https://dblp.org/rec/conf/amia/GhoshF0BP22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{ghosh2022dr,
+  title={DR-VIDAL-Doubly Robust Variational Information-theoretic Deep Adversarial Learning for Counterfactual Prediction and Treatment Effect Estimation on Real World Data},
+  author={Ghosh, Shantanu and Feng, Zheng and Bian, Jiang and Butler, Kevin and Prosperi, Mattia},
+  booktitle={AMIA Annual Symposium Proceedings},
+  volume={2022},
+  pages={485},
+  year={2022},
+  organization={American Medical Informatics Association}
 }
 ```
 
